@@ -2,7 +2,7 @@ import requests
 import os
 from colorama import Fore, Back, Style
 import pyfiglet
-ascii_banner = pyfiglet.figlet_format("ARIZONA !!")
+ascii_banner = pyfiglet.figlet_format("ARIZONA")
 print(ascii_banner)
 
 os.system("cls")
